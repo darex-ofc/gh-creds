@@ -1,0 +1,100 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "YDdvpgBrRgm0wU5uBl5EYx3F/t8IPYrQoNL3+nhMpW4="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "bA8LOJosFFSF1J2+njDdp6o7e8lItHZUZu8bcM6bFXs="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "yJE9BS5U1GC8nG5ffi3UffWy+Ijw5kM1nJHCggdgY2w="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "g+5JDPXb8/tCBrGdWFGNw+VkBaELMvj1ughEx5f7f2Y="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "qCTcD/aOfZCb6bQhw6K5/5m4BW5Zg+j7eH+6ElFb2ns="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "tLAyB7C9JSKeW1rViD42/JUQdwJrbNja9q1iY0TuiSw="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "UIe9n0/CGLWs3OZ0p2zcuactmI4GIsIN5fAQ/MkszEI="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "3i0eCZ0ZTZPQV+yHmlOVvYcw+3d4TJTtI5ClGQa+PhA="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "+LJdhtJfNfVlGsHSIHpw6XDU0ZeENSpaZP4593mM3B3RlGeeMHFND2O+QRXE0+DBsJI3pCpdWAg7ECF4s7zbAA=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 137,
+  "advSecretKey": "KkTz9ryiHML65IJXcfhrYHDnMXmAguFGhxUYMtip87M=",
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "93706336034@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A527CFD4CB01E8C8F1885FD854A0D436"
+      },
+      "messageTimestamp": 1767693660
+    }
+  ],
+  "nextPreKeyId": 813,
+  "firstUnuploadedPreKeyId": 813,
+  "accountSyncCounter": 1,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "EUYC3E8M",
+  "me": {
+    "id": "93706336034:1@s.whatsapp.net",
+    "name": "قاري آمين الله روحاني",
+    "lid": "20586348695571:1@lid"
+  },
+  "account": {
+    "details": "CI7r15cBEMi688oGGAEgACgA",
+    "accountSignatureKey": "feoDQo0EX4whRaS8+BQsiAxleIuWK45BLSR2KhC+YAM=",
+    "accountSignature": "18fXQSXzkWRxY2ahbAbIzbz0koCvHQ+JxHjtd8YA9vgSY7rluXLHLeh6XrEM2Ye5YuYWbzmhyNHWdKlzuceSBg==",
+    "deviceSignature": "OOsfFW+zaw1K6P5YSSrHS25tgme6wXDb3t8UqFBeunrYUFQBeYSHu4DnsH5fvlkxNqDsM7uGaHEvC9Pmj4D6DA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "93706336034:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BX3qA0KNBF+MIUWkvPgULIgMZXiLliuOQS0kdioQvmAD"
+      }
+    }
+  ],
+  "platform": "smba",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAgIEggC"
+  },
+  "lastAccountSyncTimestamp": 1767693651,
+  "lastPropHash": "2G4Amu",
+  "myAppStateKeyId": "AAAAAPPr"
+}
