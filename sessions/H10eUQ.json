@@ -1,0 +1,108 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "sGl606cY9Z/IyJK9Zx1qDGZzmu1+OHCWRL7RHzMOrWM="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "C1JnFuE8qCkxmDs+z0ARtPk0Xfr9gKPrU8S4Ymc7+1Q="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "wCc6Uj9nIEyewb3JH0yzO173Ha+72TNCoYnF7KsrWmw="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "Bn4XagdTClN/FAhWFO2AI8V70F8d00j4bxAF2PV/Ui0="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "KISf6iz+1NYTusCGxKDvrKIVm6t2BcE2aAfIk4BazW4="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "nYOfK/CGdmHsMMbHoEm0mByPK1IuFqg6q5PLcsbNSxc="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "uI9jj9uuBTADV1AYr/v44ui4wbLT5eA6pCUdzUGp4HM="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "PqEjQFK2m/C8sH8recZkAw92y5JlK+RNOzgxo59VhFY="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "UpgnmkMh3KAbYzuRWvBxYnnIjdcPQf8sqUX8gPa7dSt1LPIz97Y6EGrOD1EQjLOIWwtMQD++Tz2ShL+OC68XAg=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 98,
+  "advSecretKey": "//3LYhd8u3Lp28+dFZX1uqP9Yr9hkjAPrOXq/RCrq6k=",
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "6283114512197@s.whatsapp.net",
+        "fromMe": true,
+        "id": "ACCA3E65A251FD5E9D11059C2519765A"
+      },
+      "messageTimestamp": 1768574970
+    },
+    {
+      "key": {
+        "remoteJid": "6283114512197@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC8C4AD50767FF580E9034780514B47F"
+      },
+      "messageTimestamp": 1768574974
+    }
+  ],
+  "nextPreKeyId": 813,
+  "firstUnuploadedPreKeyId": 813,
+  "accountSyncCounter": 1,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "VPQX5S4Q",
+  "me": {
+    "id": "6283114512197:57@s.whatsapp.net",
+    "lid": "101490748317798:57@lid",
+    "name": "RAFSz"
+  },
+  "account": {
+    "details": "CJb62pAHEOyfqcsGGAMgACgA",
+    "accountSignatureKey": "C6G0JE58yWCc9p1Oe4O8NBGLOX/pSVmZ/9fKwoy7rFA=",
+    "accountSignature": "BT8vv+7qOIKk8QOUSftQAl4T6NmtGxbVuKPYrogiHSKLkFLUtCvAO+zpuC1sASKgc8AMf7SqZ143EIB+N+y9BA==",
+    "deviceSignature": "ahYLYV5IleQ2YovBSukMYd4vrCElvjUR8lOsfzXYNhTPv21HOmIpYpvt40Iz3oEejglo40ePXihSMbMfYyw4Cw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "6283114512197:57@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BQuhtCROfMlgnPadTnuDvDQRizl/6UlZmf/XysKMu6xQ"
+      }
+    }
+  ],
+  "platform": "android",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAIICAgF"
+  },
+  "lastAccountSyncTimestamp": 1768574965,
+  "lastPropHash": "3R9Z39",
+  "myAppStateKeyId": "AAAAAPVg"
+}
