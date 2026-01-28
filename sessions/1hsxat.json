@@ -1,0 +1,108 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "MGvhQov+NJtZF2shGceWsj67ufOLCxX0+2EuS8aJMX8="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "Xu8OqRpIodv9xbIV1baoJWnKFQcMgoQ2TGA4HR9gg3s="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "GFvLFiJwSmj0FU7gtvOwjOFQoIhxPkhA6zA849orGWA="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "rw2rhKHjc6NU0pFXu9Di8HQp4XMvgGLPkg3m8onhowk="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "AHdjlwhg2bQvXP53nLkIsTh3HzBOgL3yoM2RAAHBD1M="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "B0h/8VQAUcESe1HzuBqVk9tzv4q42kiByfNhX0Bwxh4="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "YBrUcSL3+ATu5b8/IYIppwg+gLWGd0cmsLssZVcSQFI="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "7G2/ylas7S9gIMK42NU83ip4ieROrevpW2CmS6lKd3M="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "eMH1bCfnp4AjRYEHztwocNrGyWsR0SBb/v8o9At8dL0Ucc+aHRL8TJnUehLjNQoXqTtPxHGSJ3QxgBugo7pqjg=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 237,
+  "advSecretKey": "5mx7C2xmYvrfCYJ9pBWIqQo7pAHVb7U5FWOtz1+hQ5Q=",
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "94740799219@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A55B8AC40FFA8530C52D9B479AA792B6"
+      },
+      "messageTimestamp": 1769599122
+    },
+    {
+      "key": {
+        "remoteJid": "94740799219@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A594F38FD5A66587DB3253B1BA0A43BE"
+      },
+      "messageTimestamp": 1769599126
+    }
+  ],
+  "nextPreKeyId": 813,
+  "firstUnuploadedPreKeyId": 813,
+  "accountSyncCounter": 1,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "CEAB3FWA",
+  "me": {
+    "id": "94740799219:1@s.whatsapp.net",
+    "name": "𝔩𝔢𝔤𝔢𝔫𝔡 𝔬𝔣 𝔨𝔦𝔫𝔤 𝔰𝔞𝔡𝔲",
+    "lid": "168049722261720:1@lid"
+  },
+  "account": {
+    "details": "CLuKv9AGEITh58sGGAEgACgA",
+    "accountSignatureKey": "CZVDBTwkKcOgAs5dOIaPLPIu4QeHnB1EHy6nm/v6JWc=",
+    "accountSignature": "05+witFxCVlEaXPZllGcUdVfP422rZ8PTH17cWTHqt2fETD3s/LkvbpjqwUnXgeNI+5uxzs5PbvzgnYph2UADQ==",
+    "deviceSignature": "maX41QFZ1x6OcafW2akuuaWuxd5+qneFXn1ywqwf+/HaerV1vuud6coFPll9gwsdC8w6kNFqIZB3WvQqLVZ5hQ=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "94740799219:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BQmVQwU8JCnDoALOXTiGjyzyLuEHh5wdRB8up5v7+iVn"
+      }
+    }
+  ],
+  "platform": "smba",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAIIEggF"
+  },
+  "lastAccountSyncTimestamp": 1769599116,
+  "lastPropHash": "3R9Z39",
+  "myAppStateKeyId": "AAAAAE78"
+}
