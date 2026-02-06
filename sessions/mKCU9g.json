@@ -1,0 +1,100 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "ED7l29hCTluL1tCx4xtL6nsW/kFysrlRAlSTlOzl9kU="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "oRZxUJt82YuSxiLHog0BUFrcvJCM5m7KBl+F5pkzi1s="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "sLs8VLYN2EBdgsi0FlfnMDp8w1wSN7rOIWHtFxjU83Q="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "i8GAnYzI62EtQJSBK1+vmkyXxrf+liP2BevI1TfAHj0="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "WEdmUkWEjqvOeRozLFM0b5G0smIsTGsCAhuyelILmms="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "ngSSkXj/J4H3w7jfGRy1Hf+L0YbGXr/BkbTF/YCfrH4="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "gKhcGKNxB+fbEIXKExtESImWugTMMZa5o696YoymdE8="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "MVQDNROvjT89/1zVAK5M7nY4aLUiO2QuGp2J0IUrUXc="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "te2zlqxI2oKu7xNzoJeJTwWO+ZXF5x3gmUOqYEnvSPFxU/QY9cyomzqLtMVFSzHey+Pzf8a3YJ9w5Od6cOkQiA=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 193,
+  "advSecretKey": "0Bp1bHV50fMzEhKEx+HlJM7XXSdfSKldQJayn/8byFg=",
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "263714872292@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A54E5B461C3E238ED92D89756E85CB14"
+      },
+      "messageTimestamp": 1770400684
+    }
+  ],
+  "nextPreKeyId": 1625,
+  "firstUnuploadedPreKeyId": 1625,
+  "accountSyncCounter": 1,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "0MTFV1DI",
+  "me": {
+    "id": "263714872292:6@s.whatsapp.net",
+    "name": "Bac Animes News",
+    "lid": "28789753041043:6@lid"
+  },
+  "account": {
+    "details": "CNa60qAFEMvWmMwGGAUgACgA",
+    "accountSignatureKey": "m2/tz4N15Rrt2SBYZjtY/hD30ev3fIAdE9Dohxv7+gE=",
+    "accountSignature": "5D+ZEY+wvPUQWqEuutw1pN3mJBrEcD1vvpsXbe16Uh4WbVJqUKHoppggG7J0PzI3eJTkWzZbPUUF5hkIfKbuCw==",
+    "deviceSignature": "8dn846qpnYXOrS3xb73yIx5qWJMKrqgMLOZGQlVeVfHOCK0/l0jBufRle6xwtzuiO4bSI0A8DCBeG5cPwHpQjw=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "263714872292:6@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BZtv7c+DdeUa7dkgWGY7WP4Q99Hr93yAHRPQ6Icb+/oB"
+      }
+    }
+  ],
+  "platform": "smba",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAgIEggC"
+  },
+  "lastAccountSyncTimestamp": 1770400860,
+  "lastPropHash": "2P1Yhf",
+  "myAppStateKeyId": "AAAAAICQ"
+}
