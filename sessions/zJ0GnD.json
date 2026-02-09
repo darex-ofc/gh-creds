@@ -1,0 +1,108 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "SN/uRKMecpH5yPqRkiqozBL2u21wHzPOnZ/xACuTZ3M="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "klqCDena84FkgO5eEGu81l7eGUZVFFkeAnxPxuPkkiE="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "KEsF/3qTHisel5fgbt78L58v9Vqfsziu8ZJbt6YLL1A="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "8wHWSFtUVauAxz2uzjFO3HEg9URsYU5xknoS05YOHCg="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "qOxOSz/7E3VTeyxHpRS5esdUFvWRZVGE2FAxW6/2qms="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "papNFBKvs6KIcFT5onkRJ7APxw10SfVf6bvDCXqjEx4="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "KLPMtMoPyw5u5KYHijuhnxTbXjyUSI8Dc6ofy+4EsE0="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "mxk3GlSTchD7Nuh+GrMU46/zZh28r6vd9OJI2HRh3Ww="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "1Wg1roDZxAuf6UN3UmYgcZR3ez06A7csXHd3P6e0Fa/4NSY/Zbok/u6EiW/HjRYO/SA5LuPB/LYP2siBX/1/CA=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 22,
+  "advSecretKey": "5uo526AJJHZWHcUA6AShc3c8tWmh3CnDO98pbabA6Ww=",
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "2349048117699@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A533F7097F7724CE435F49CF6E659AE0"
+      },
+      "messageTimestamp": 1770645443
+    },
+    {
+      "key": {
+        "remoteJid": "2349048117699@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A5EE4916830929C5A2466941FF33B5CB"
+      },
+      "messageTimestamp": 1770645446
+    }
+  ],
+  "nextPreKeyId": 813,
+  "firstUnuploadedPreKeyId": 813,
+  "accountSyncCounter": 1,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "25PJL5YW",
+  "me": {
+    "id": "2349048117699:1@s.whatsapp.net",
+    "name": "O.M.B. foods and treats",
+    "lid": "232302399496422:1@lid"
+  },
+  "account": {
+    "details": "CKHgyu8EELXPp8wGGAEgACgA",
+    "accountSignatureKey": "aPmmNOodR45BBDAaxPNiYsCYi8f+Er4L4b+3xLhWsE4=",
+    "accountSignature": "vumEXwwQRZgJnlimeh5ODL9jm1AkCU7znuSKGn7cTC65zkqNNjc713nvcJiTn5L2Px/HqSGRqs8ohDlQdAodBA==",
+    "deviceSignature": "UXVwJ8E0o8hfzJocVlcSBgdZaJVYyw7h2OzWCz2J+5gthrvcMpWJ8T8YgHqycWjo6p6lZ3flJS/onI717QTtAg=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "2349048117699:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BWj5pjTqHUeOQQQwGsTzYmLAmIvH/hK+C+G/t8S4VrBO"
+      }
+    }
+  ],
+  "platform": "smba",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAgIBQgN"
+  },
+  "lastAccountSyncTimestamp": 1770645437,
+  "lastPropHash": "3gPUJk",
+  "myAppStateKeyId": "AAAAAH97"
+}
