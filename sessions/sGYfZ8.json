@@ -1,0 +1,125 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "oFDmBS3W9W3xQuOMnk51kvuLn2haYITh5RBlgpK+6Wg="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "2koy/+KXnTrNHz47MMirpdV5QcYwNUaMWD4HnIn/qHc="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "oL0SBZ4zngESiPbtJR6UvRYjK74sgNAMZtsi5t7MyEA="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "AlaIL/yIjgsc9qDeexOkH/1Cf/VUeVelcxEAwHDhf0A="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "AIhXnk09mXMnfjnWZEAxaMK19c1JmWoxtFxQKaqR+Fw="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "zDDBf8BpUwdah3U2JdfRyXN4u4cqmLtcxCeI3+bWdFo="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "uFYOAd10G3+GNakFicXr4+zlRBHFBoGrTIVy5hTDXmI="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "ZF45o7T7eNk3U2h+QfzyNdg4+OusngTR4iyq75ehgSg="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "3ZHHG8nEfGwGP6riDoHYAz9kBozUvMG7WwFJaaKgiPEL24rW7TxXmes1PtpTAJJVTXC6plkbXrD+ZTdYbf25Dw=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 166,
+  "advSecretKey": "L3+fObS3T39fKjknn+iZUHSlQbgRY98ssYYRyTfyTlM=",
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "27699739352@s.whatsapp.net",
+        "fromMe": true,
+        "id": "ACB4747CD5D578C26B526EAB1CECC8B2",
+        "senderLid": "271421230035197:1@lid",
+        "senderPn": "27699739352@s.whatsapp.net",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1775511874
+    },
+    {
+      "key": {
+        "remoteJid": "27699739352@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC21C39ED726357157705C4D6230C194",
+        "senderLid": "271421230035197:1@lid",
+        "senderPn": "27699739352@s.whatsapp.net",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1775511874
+    },
+    {
+      "key": {
+        "remoteJid": "27699739352@s.whatsapp.net",
+        "fromMe": true,
+        "id": "AC276826CA17AC5ADEFE81F4EF9D6DD5",
+        "senderLid": "271421230035197:1@lid",
+        "senderPn": "27699739352@s.whatsapp.net",
+        "addressingMode": "pn"
+      },
+      "messageTimestamp": 1775511875
+    }
+  ],
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
+  "accountSyncCounter": 1,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": true,
+  "pairingCode": "IH2OV6FS",
+  "me": {
+    "id": "27699739352:1@s.whatsapp.net",
+    "lid": "271421230035197:1@lid",
+    "name": "Neo"
+  },
+  "account": {
+    "details": "CNzIhLoEELfS0M4GGAEgACgA",
+    "accountSignatureKey": "OReRhDaLzR/lAZg1fE/KMMmflgtN5MecN9jXn4Hxi28=",
+    "accountSignature": "gUJIeizLKc0TWKGXOAtUQTUmyipI0Bkg7n1MkdoiRePn5pIw2suCEwWqrAHUgORG64bSpHkuv8AuCth152wCBA==",
+    "deviceSignature": "7T2WTmSUSuQ/0yk/uXIdN7eenLPDCkyI23Nf+/9yfsYRjaImNpKK7jAbOr5trBbBkA7ANaxlypZlQIGn7NKCAA=="
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "27699739352:1@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "BTkXkYQ2i80f5QGYNXxPyjDJn5YLTeTHnDfY15+B8Ytv"
+      }
+    }
+  ],
+  "platform": "android",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CAgIDQgS"
+  },
+  "lastAccountSyncTimestamp": 1775511873,
+  "lastPropHash": "3ml1jS",
+  "myAppStateKeyId": "AAAAAMkp"
+}
