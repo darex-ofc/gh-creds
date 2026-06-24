@@ -1,0 +1,89 @@
+{
+  "noiseKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "wOVymjqFxAH+n/M9JQigp2SCyUFcpvDJuyqG4QXtoXY="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "XF0Di6hA7cytcSxYNgsxgUxx66mJS+qTjI/mnGHzyFw="
+    }
+  },
+  "pairingEphemeralKeyPair": {
+    "private": {
+      "type": "Buffer",
+      "data": "mBD+wb5ms6xI28XgC68RYUk02QUCxS9OmIRN177+SFc="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "y7MB21V8wP6Cde+W6I8i03WFf8xcoWB+Lu/rivx/O1E="
+    }
+  },
+  "signedIdentityKey": {
+    "private": {
+      "type": "Buffer",
+      "data": "qOdCiukZDKgS7qffMRWEWcdvFIg2nl2z+zzX14LNQ0A="
+    },
+    "public": {
+      "type": "Buffer",
+      "data": "Mw6aHD9Td7WLhoDMazS1qSLqoMugixQd2foRmrNbszw="
+    }
+  },
+  "signedPreKey": {
+    "keyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "aHhq3tsvPksgem8xRdGPV4gCY3B15NU1Kfu+zv0k7kw="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "QZP7xxjU6Sa3PRhIFvvzfDI0cGwmIca7H+cgW/8An0U="
+      }
+    },
+    "signature": {
+      "type": "Buffer",
+      "data": "7+uKEPa6es9VNq7cIKcrSnlrWEpvQ0D7kvPuvc0kM1+ItZ6K95ju37utv8Ka/QvLwFhSCpH8l3W6DSdKxKMvjA=="
+    },
+    "keyId": 1
+  },
+  "registrationId": 82,
+  "advSecretKey": "JyK5kVaaZ3iMqW569iJVaCmjXBZsVYYxhuVg9MlgNdc=",
+  "processedHistoryMessages": [],
+  "nextPreKeyId": 31,
+  "firstUnuploadedPreKeyId": 31,
+  "accountSyncCounter": 0,
+  "accountSettings": {
+    "unarchiveChats": false
+  },
+  "registered": false,
+  "account": {
+    "details": "CIX53bIIEOGn8dEGGAEgACgA",
+    "accountSignatureKey": "vspHXORczPL4l1pr0Mit3RyOmoXuQZ7NXyImKimKrBM=",
+    "accountSignature": "1bBlvwPqF/AZwxdvkyXUdMiDFq/CbaTsKF0K1y8lXWRg8obf4Qq/3oMpSC3hRF2fvs0xspcjXxCYLH8i5qkOCg==",
+    "deviceSignature": "j1l49A65pmxYDebxKr2Lu5Gl589e9zy/D3XwFNWUp6T8aZUMhgqUTmLPt28wpAr5EiM87Vp1atkL2+ioeNfdiw=="
+  },
+  "me": {
+    "id": "201009520439:28@s.whatsapp.net",
+    "name": "A7med",
+    "lid": "143954955735107:28@lid"
+  },
+  "signalIdentities": [
+    {
+      "identifier": {
+        "name": "201009520439:28@s.whatsapp.net",
+        "deviceId": 0
+      },
+      "identifierKey": {
+        "type": "Buffer",
+        "data": "Bb7KR1zkXMzy+Jdaa9DIrd0cjpqF7kGezV8iJiopiqwT"
+      }
+    }
+  ],
+  "platform": "smbi",
+  "routingInfo": {
+    "type": "Buffer",
+    "data": "CA0IEggF"
+  },
+  "lastAccountSyncTimestamp": 1782338546,
+  "myAppStateKeyId": "AAAAAEV3"
+}
